@@ -11,7 +11,7 @@ def setup():
     logg("info", "Entering URL")
     driver.get("https://react-shopping-cart-67954.firebaseapp.com/")
     driver.maximize_window()
-    sleep(3)
+    sleep(1)
     yield driver
     logg("info", "Closing Browser")
     driver.close()

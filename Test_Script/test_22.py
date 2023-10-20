@@ -1,6 +1,7 @@
 from POM.ProductPage import *
 from Generic.verify_title import *
 
+# Test 2.2
 
 def test_22(setup):
     driver = setup

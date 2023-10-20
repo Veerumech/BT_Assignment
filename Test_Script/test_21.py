@@ -1,9 +1,10 @@
 from POM.ProductPage import *
 from Generic.verify_title import *
 
+# Test 2.1
 
+# Input data
 product_order = [1, 2, 4, 5, 3]    # order of products adding to cart
-product_add_name_order = []
 
 
 def test_21(setup):
