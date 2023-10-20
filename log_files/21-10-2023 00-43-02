@@ -1,0 +1,294 @@
+2023-10-21 00:43:02,341 [INFO]: 
+2023-10-21 00:43:02,531 [INFO]: Launching Browser
+2023-10-21 00:43:05,291 [INFO]: Entering URL
+2023-10-21 00:43:09,379 [INFO]: checking title
+2023-10-21 00:43:09,393 [INFO]: Clicking size button
+2023-10-21 00:43:09,393 [INFO]: verifying element in DOM
+2023-10-21 00:43:12,690 [INFO]: verifying element in DOM
+2023-10-21 00:43:16,007 [INFO]: Adding all products to cart
+2023-10-21 00:43:16,007 [INFO]: verifying element in DOM
+2023-10-21 00:43:16,321 [INFO]: Adding product to cart
+2023-10-21 00:43:16,321 [INFO]: verifying element in DOM
+2023-10-21 00:43:16,692 [INFO]: Closing cart
+2023-10-21 00:43:16,692 [INFO]: verifying element in DOM
+2023-10-21 00:43:16,897 [INFO]: Adding product to cart
+2023-10-21 00:43:16,897 [INFO]: verifying element in DOM
+2023-10-21 00:43:17,061 [INFO]: Closing cart
+2023-10-21 00:43:17,061 [INFO]: verifying element in DOM
+2023-10-21 00:43:17,227 [INFO]: Adding product to cart
+2023-10-21 00:43:17,227 [INFO]: verifying element in DOM
+2023-10-21 00:43:17,381 [INFO]: Closing cart
+2023-10-21 00:43:17,381 [INFO]: verifying element in DOM
+2023-10-21 00:43:17,543 [INFO]: Clicking cart button
+2023-10-21 00:43:17,543 [INFO]: verifying element in DOM
+2023-10-21 00:43:17,701 [INFO]: Verifying filter size
+2023-10-21 00:43:17,701 [INFO]: Collecting product size in cart
+2023-10-21 00:43:17,701 [INFO]: verifying element in DOM
+2023-10-21 00:43:17,841 [INFO]: Closing Browser
+2023-10-21 00:43:20,563 [INFO]: Launching Browser
+2023-10-21 00:43:22,776 [INFO]: Entering URL
+2023-10-21 00:43:26,892 [INFO]: checking title
+2023-10-21 00:43:26,916 [INFO]: Clicking size button
+2023-10-21 00:43:26,916 [INFO]: verifying element in DOM
+2023-10-21 00:43:30,120 [INFO]: Adding all products to cart
+2023-10-21 00:43:30,120 [INFO]: verifying element in DOM
+2023-10-21 00:43:30,481 [INFO]: Adding product to cart
+2023-10-21 00:43:30,481 [INFO]: verifying element in DOM
+2023-10-21 00:43:30,642 [INFO]: Closing cart
+2023-10-21 00:43:30,642 [INFO]: verifying element in DOM
+2023-10-21 00:43:30,810 [INFO]: Adding product to cart
+2023-10-21 00:43:30,810 [INFO]: verifying element in DOM
+2023-10-21 00:43:31,011 [INFO]: Closing cart
+2023-10-21 00:43:31,011 [INFO]: verifying element in DOM
+2023-10-21 00:43:31,167 [INFO]: Clicking cart button
+2023-10-21 00:43:31,167 [INFO]: verifying element in DOM
+2023-10-21 00:43:31,317 [INFO]: Verifying filter size
+2023-10-21 00:43:31,317 [INFO]: Collecting product size in cart
+2023-10-21 00:43:31,317 [INFO]: verifying element in DOM
+2023-10-21 00:43:31,634 [INFO]: Clicking size button
+2023-10-21 00:43:31,634 [INFO]: verifying element in DOM
+2023-10-21 00:43:34,860 [INFO]: Adding all products to cart
+2023-10-21 00:43:34,861 [INFO]: verifying element in DOM
+2023-10-21 00:43:35,052 [INFO]: Adding product to cart
+2023-10-21 00:43:35,052 [INFO]: verifying element in DOM
+2023-10-21 00:43:35,373 [INFO]: Closing cart
+2023-10-21 00:43:35,373 [INFO]: verifying element in DOM
+2023-10-21 00:43:35,559 [INFO]: Clicking cart button
+2023-10-21 00:43:35,559 [INFO]: verifying element in DOM
+2023-10-21 00:43:35,713 [INFO]: Verifying filter size
+2023-10-21 00:43:35,713 [INFO]: Collecting product size in cart
+2023-10-21 00:43:35,713 [INFO]: verifying element in DOM
+2023-10-21 00:43:35,976 [INFO]: Clicking size button
+2023-10-21 00:43:35,976 [INFO]: verifying element in DOM
+2023-10-21 00:43:39,198 [INFO]: verifying element in DOM
+2023-10-21 00:43:42,378 [INFO]: Adding all products to cart
+2023-10-21 00:43:42,378 [INFO]: verifying element in DOM
+2023-10-21 00:43:42,562 [INFO]: Adding product to cart
+2023-10-21 00:43:42,562 [INFO]: verifying element in DOM
+2023-10-21 00:43:42,781 [INFO]: Closing cart
+2023-10-21 00:43:42,781 [INFO]: verifying element in DOM
+2023-10-21 00:43:43,021 [INFO]: Adding product to cart
+2023-10-21 00:43:43,021 [INFO]: verifying element in DOM
+2023-10-21 00:43:43,191 [INFO]: Closing cart
+2023-10-21 00:43:43,191 [INFO]: verifying element in DOM
+2023-10-21 00:43:43,371 [INFO]: Adding product to cart
+2023-10-21 00:43:43,371 [INFO]: verifying element in DOM
+2023-10-21 00:43:43,560 [INFO]: Closing cart
+2023-10-21 00:43:43,560 [INFO]: verifying element in DOM
+2023-10-21 00:43:43,751 [INFO]: Clicking cart button
+2023-10-21 00:43:43,751 [INFO]: verifying element in DOM
+2023-10-21 00:43:43,913 [INFO]: Verifying filter size
+2023-10-21 00:43:43,913 [INFO]: Collecting product size in cart
+2023-10-21 00:43:43,913 [INFO]: verifying element in DOM
+2023-10-21 00:43:44,031 [INFO]: Closing Browser
+2023-10-21 00:43:46,511 [INFO]: Launching Browser
+2023-10-21 00:43:48,763 [INFO]: Entering URL
+2023-10-21 00:43:52,711 [INFO]: checking title
+2023-10-21 00:43:52,731 [INFO]: adding multiple product to cart
+2023-10-21 00:43:52,731 [INFO]: product name
+2023-10-21 00:43:52,731 [INFO]: verifying element in DOM
+2023-10-21 00:43:53,012 [INFO]: Product price
+2023-10-21 00:43:53,012 [INFO]: verifying element in DOM
+2023-10-21 00:43:53,151 [INFO]: verifying element in DOM
+2023-10-21 00:43:53,292 [INFO]: Adding product to cart
+2023-10-21 00:43:53,292 [INFO]: verifying element in DOM
+2023-10-21 00:43:53,531 [INFO]: Closing cart
+2023-10-21 00:43:53,531 [INFO]: verifying element in DOM
+2023-10-21 00:43:53,741 [INFO]: product name
+2023-10-21 00:43:53,741 [INFO]: verifying element in DOM
+2023-10-21 00:43:53,881 [INFO]: Product price
+2023-10-21 00:43:53,881 [INFO]: verifying element in DOM
+2023-10-21 00:43:53,981 [INFO]: verifying element in DOM
+2023-10-21 00:43:54,061 [INFO]: Adding product to cart
+2023-10-21 00:43:54,061 [INFO]: verifying element in DOM
+2023-10-21 00:43:54,194 [INFO]: Closing cart
+2023-10-21 00:43:54,194 [INFO]: verifying element in DOM
+2023-10-21 00:43:54,361 [INFO]: product name
+2023-10-21 00:43:54,361 [INFO]: verifying element in DOM
+2023-10-21 00:43:54,471 [INFO]: Product price
+2023-10-21 00:43:54,471 [INFO]: verifying element in DOM
+2023-10-21 00:43:54,581 [INFO]: verifying element in DOM
+2023-10-21 00:43:54,660 [INFO]: Adding product to cart
+2023-10-21 00:43:54,660 [INFO]: verifying element in DOM
+2023-10-21 00:43:54,793 [INFO]: Closing cart
+2023-10-21 00:43:54,793 [INFO]: verifying element in DOM
+2023-10-21 00:43:54,942 [INFO]: product name
+2023-10-21 00:43:54,942 [INFO]: verifying element in DOM
+2023-10-21 00:43:55,041 [INFO]: Product price
+2023-10-21 00:43:55,041 [INFO]: verifying element in DOM
+2023-10-21 00:43:55,141 [INFO]: verifying element in DOM
+2023-10-21 00:43:55,221 [INFO]: Adding product to cart
+2023-10-21 00:43:55,221 [INFO]: verifying element in DOM
+2023-10-21 00:43:55,362 [INFO]: Closing cart
+2023-10-21 00:43:55,362 [INFO]: verifying element in DOM
+2023-10-21 00:43:55,551 [INFO]: product name
+2023-10-21 00:43:55,551 [INFO]: verifying element in DOM
+2023-10-21 00:43:55,659 [INFO]: Product price
+2023-10-21 00:43:55,659 [INFO]: verifying element in DOM
+2023-10-21 00:43:55,781 [INFO]: verifying element in DOM
+2023-10-21 00:43:55,861 [INFO]: Adding product to cart
+2023-10-21 00:43:55,861 [INFO]: verifying element in DOM
+2023-10-21 00:43:55,991 [INFO]: Closing cart
+2023-10-21 00:43:55,991 [INFO]: verifying element in DOM
+2023-10-21 00:43:56,148 [INFO]: Clicking cart button
+2023-10-21 00:43:56,148 [INFO]: verifying element in DOM
+2023-10-21 00:43:56,316 [INFO]: Verifying cart list order
+2023-10-21 00:43:56,316 [INFO]: Product name in cart
+2023-10-21 00:43:56,316 [INFO]: verifying element in DOM
+2023-10-21 00:43:56,481 [INFO]: Verifying cart product price
+2023-10-21 00:43:56,481 [INFO]: verifying element in DOM
+2023-10-21 00:43:56,611 [INFO]: Closing Browser
+2023-10-21 00:43:59,091 [INFO]: Launching Browser
+2023-10-21 00:44:01,377 [INFO]: Entering URL
+2023-10-21 00:44:05,371 [INFO]: checking title
+2023-10-21 00:44:05,392 [INFO]: Product price
+2023-10-21 00:44:05,392 [INFO]: verifying element in DOM
+2023-10-21 00:44:05,681 [INFO]: verifying element in DOM
+2023-10-21 00:44:05,862 [INFO]: Clicking add to cart button 3 times
+2023-10-21 00:44:05,862 [INFO]: Adding product to cart
+2023-10-21 00:44:05,862 [INFO]: verifying element in DOM
+2023-10-21 00:44:06,240 [INFO]: Closing cart
+2023-10-21 00:44:06,240 [INFO]: verifying element in DOM
+2023-10-21 00:44:06,421 [INFO]: Adding product to cart
+2023-10-21 00:44:06,421 [INFO]: verifying element in DOM
+2023-10-21 00:44:06,594 [INFO]: Closing cart
+2023-10-21 00:44:06,594 [INFO]: verifying element in DOM
+2023-10-21 00:44:06,761 [INFO]: Adding product to cart
+2023-10-21 00:44:06,761 [INFO]: verifying element in DOM
+2023-10-21 00:44:06,921 [INFO]: Closing cart
+2023-10-21 00:44:06,921 [INFO]: verifying element in DOM
+2023-10-21 00:44:07,092 [INFO]: Clicking cart button
+2023-10-21 00:44:07,092 [INFO]: verifying element in DOM
+2023-10-21 00:44:07,266 [INFO]: Clicking plus button 2 times
+2023-10-21 00:44:07,266 [INFO]: Clicking plus button
+2023-10-21 00:44:07,266 [INFO]: verifying element in DOM
+2023-10-21 00:44:08,116 [INFO]: Clicking plus button
+2023-10-21 00:44:08,116 [INFO]: verifying element in DOM
+2023-10-21 00:44:08,412 [INFO]: Verifying cart price
+2023-10-21 00:44:08,412 [INFO]: Total Cart price
+2023-10-21 00:44:08,412 [INFO]: verifying element in DOM
+2023-10-21 00:44:08,621 [INFO]: Total Cart price
+2023-10-21 00:44:08,621 [INFO]: verifying element in DOM
+2023-10-21 00:44:08,822 [INFO]: Closing Browser
+2023-10-21 00:44:11,402 [INFO]: Launching Browser
+2023-10-21 00:44:13,944 [INFO]: Entering URL
+2023-10-21 00:44:17,958 [INFO]: checking title
+2023-10-21 00:44:17,972 [INFO]: adding multiple product to cart
+2023-10-21 00:44:17,972 [INFO]: product name
+2023-10-21 00:44:17,972 [INFO]: verifying element in DOM
+2023-10-21 00:44:18,250 [INFO]: Product price
+2023-10-21 00:44:18,250 [INFO]: verifying element in DOM
+2023-10-21 00:44:18,351 [INFO]: verifying element in DOM
+2023-10-21 00:44:18,430 [INFO]: Adding product to cart
+2023-10-21 00:44:18,430 [INFO]: verifying element in DOM
+2023-10-21 00:44:18,601 [INFO]: Closing cart
+2023-10-21 00:44:18,601 [INFO]: verifying element in DOM
+2023-10-21 00:44:18,791 [INFO]: product name
+2023-10-21 00:44:18,791 [INFO]: verifying element in DOM
+2023-10-21 00:44:18,910 [INFO]: Product price
+2023-10-21 00:44:18,910 [INFO]: verifying element in DOM
+2023-10-21 00:44:19,010 [INFO]: verifying element in DOM
+2023-10-21 00:44:19,091 [INFO]: Adding product to cart
+2023-10-21 00:44:19,091 [INFO]: verifying element in DOM
+2023-10-21 00:44:19,221 [INFO]: Closing cart
+2023-10-21 00:44:19,221 [INFO]: verifying element in DOM
+2023-10-21 00:44:19,396 [INFO]: product name
+2023-10-21 00:44:19,401 [INFO]: verifying element in DOM
+2023-10-21 00:44:19,501 [INFO]: Product price
+2023-10-21 00:44:19,501 [INFO]: verifying element in DOM
+2023-10-21 00:44:19,608 [INFO]: verifying element in DOM
+2023-10-21 00:44:19,691 [INFO]: Adding product to cart
+2023-10-21 00:44:19,691 [INFO]: verifying element in DOM
+2023-10-21 00:44:19,818 [INFO]: Closing cart
+2023-10-21 00:44:19,818 [INFO]: verifying element in DOM
+2023-10-21 00:44:19,978 [INFO]: product name
+2023-10-21 00:44:19,978 [INFO]: verifying element in DOM
+2023-10-21 00:44:20,080 [INFO]: Product price
+2023-10-21 00:44:20,080 [INFO]: verifying element in DOM
+2023-10-21 00:44:20,171 [INFO]: verifying element in DOM
+2023-10-21 00:44:20,251 [INFO]: Adding product to cart
+2023-10-21 00:44:20,251 [INFO]: verifying element in DOM
+2023-10-21 00:44:20,402 [INFO]: Closing cart
+2023-10-21 00:44:20,402 [INFO]: verifying element in DOM
+2023-10-21 00:44:20,571 [INFO]: product name
+2023-10-21 00:44:20,571 [INFO]: verifying element in DOM
+2023-10-21 00:44:20,680 [INFO]: Product price
+2023-10-21 00:44:20,689 [INFO]: verifying element in DOM
+2023-10-21 00:44:20,792 [INFO]: verifying element in DOM
+2023-10-21 00:44:20,880 [INFO]: Adding product to cart
+2023-10-21 00:44:20,880 [INFO]: verifying element in DOM
+2023-10-21 00:44:21,031 [INFO]: Closing cart
+2023-10-21 00:44:21,031 [INFO]: verifying element in DOM
+2023-10-21 00:44:21,211 [INFO]: Clicking cart button
+2023-10-21 00:44:21,211 [INFO]: verifying element in DOM
+2023-10-21 00:44:21,367 [INFO]: Sum of individual product price in cart
+2023-10-21 00:44:21,367 [INFO]: verifying element in DOM
+2023-10-21 00:44:22,231 [INFO]: Verifying cart count
+2023-10-21 00:44:22,231 [INFO]: cart count
+2023-10-21 00:44:22,231 [INFO]: verifying element in DOM
+2023-10-21 00:44:22,442 [INFO]: Verifying cart price
+2023-10-21 00:44:22,442 [INFO]: Total Cart price
+2023-10-21 00:44:22,442 [INFO]: verifying element in DOM
+2023-10-21 00:44:22,651 [INFO]: Total Cart price
+2023-10-21 00:44:22,651 [INFO]: verifying element in DOM
+2023-10-21 00:44:22,851 [INFO]: Removing product from cart
+2023-10-21 00:44:22,851 [INFO]: cart count
+2023-10-21 00:44:22,851 [INFO]: verifying element in DOM
+2023-10-21 00:44:23,042 [INFO]: verifying element in DOM
+2023-10-21 00:44:23,281 [INFO]: verifying element in DOM
+2023-10-21 00:44:23,460 [INFO]: verifying element in DOM
+2023-10-21 00:44:23,651 [INFO]: verifying element in DOM
+2023-10-21 00:44:23,851 [INFO]: verifying element in DOM
+2023-10-21 00:44:23,991 [INFO]: Verifying cart count
+2023-10-21 00:44:23,991 [INFO]: cart count
+2023-10-21 00:44:23,991 [INFO]: verifying element in DOM
+2023-10-21 00:44:24,080 [INFO]: Verifying cart price
+2023-10-21 00:44:24,080 [INFO]: Total Cart price
+2023-10-21 00:44:24,080 [INFO]: verifying element in DOM
+2023-10-21 00:44:24,162 [INFO]: Total Cart price
+2023-10-21 00:44:24,162 [INFO]: verifying element in DOM
+2023-10-21 00:44:24,252 [INFO]: Closing Browser
+2023-10-21 00:44:26,701 [INFO]: Launching Browser
+2023-10-21 00:44:29,092 [INFO]: Entering URL
+2023-10-21 00:44:33,071 [INFO]: checking title
+2023-10-21 00:44:33,094 [INFO]: adding multiple product to cart
+2023-10-21 00:44:33,094 [INFO]: product name
+2023-10-21 00:44:33,094 [INFO]: verifying element in DOM
+2023-10-21 00:44:33,272 [INFO]: Product price
+2023-10-21 00:44:33,272 [INFO]: verifying element in DOM
+2023-10-21 00:44:33,411 [INFO]: verifying element in DOM
+2023-10-21 00:44:33,551 [INFO]: Adding product to cart
+2023-10-21 00:44:33,551 [INFO]: verifying element in DOM
+2023-10-21 00:44:33,817 [INFO]: Closing cart
+2023-10-21 00:44:33,817 [INFO]: verifying element in DOM
+2023-10-21 00:44:34,031 [INFO]: product name
+2023-10-21 00:44:34,031 [INFO]: verifying element in DOM
+2023-10-21 00:44:34,146 [INFO]: Product price
+2023-10-21 00:44:34,146 [INFO]: verifying element in DOM
+2023-10-21 00:44:34,261 [INFO]: verifying element in DOM
+2023-10-21 00:44:34,341 [INFO]: Adding product to cart
+2023-10-21 00:44:34,341 [INFO]: verifying element in DOM
+2023-10-21 00:44:34,470 [INFO]: Closing cart
+2023-10-21 00:44:34,470 [INFO]: verifying element in DOM
+2023-10-21 00:44:34,651 [INFO]: product name
+2023-10-21 00:44:34,651 [INFO]: verifying element in DOM
+2023-10-21 00:44:34,761 [INFO]: Product price
+2023-10-21 00:44:34,761 [INFO]: verifying element in DOM
+2023-10-21 00:44:34,861 [INFO]: verifying element in DOM
+2023-10-21 00:44:34,951 [INFO]: Adding product to cart
+2023-10-21 00:44:34,951 [INFO]: verifying element in DOM
+2023-10-21 00:44:35,070 [INFO]: Closing cart
+2023-10-21 00:44:35,070 [INFO]: verifying element in DOM
+2023-10-21 00:44:35,208 [INFO]: Clicking cart button
+2023-10-21 00:44:35,208 [INFO]: verifying element in DOM
+2023-10-21 00:44:35,371 [INFO]: Total Cart price
+2023-10-21 00:44:35,371 [INFO]: verifying element in DOM
+2023-10-21 00:44:36,100 [INFO]: Clicking checkout button
+2023-10-21 00:44:36,100 [INFO]: verifying element in DOM
+2023-10-21 00:44:36,408 [INFO]: Verifying alert checkout price
+2023-10-21 00:44:36,821 [INFO]: Clicking cart button
+2023-10-21 00:44:36,821 [INFO]: verifying element in DOM
+2023-10-21 00:44:37,013 [INFO]: Verifying cart count
+2023-10-21 00:44:37,013 [INFO]: cart count
+2023-10-21 00:44:37,013 [INFO]: verifying element in DOM
+2023-10-21 00:44:37,151 [INFO]: Closing Browser
